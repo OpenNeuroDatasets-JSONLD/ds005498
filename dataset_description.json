@@ -1,5 +1,5 @@
 {
-    "Name": "Single-pulse TMS fMRI",
+    "Name": "Single-pulse TMS fMRI draft",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
     "License": "CC0",
