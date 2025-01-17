@@ -1,5 +1,5 @@
 {
-  "TaskName": "resting",
+  "TaskName": "46x26x38",
   "Modality": "MR",
   "MagneticFieldStrength": 3,
   "Manufacturer": "GE",
@@ -10,7 +10,7 @@
   "ScanningSequence": "sprlio",
   "SliceOrder": "sequential",
   "EchoTime": 0.03,
-  "RepetitionTime": 2.0,
-  "FlipAngle": 80,
+  "RepetitionTime": 2.4,
+  "FlipAngle": 85,
   "PulseSequenceType": "T2*"
 }
